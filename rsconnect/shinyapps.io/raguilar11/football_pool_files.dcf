@@ -1,0 +1,12 @@
+name: football_pool_files
+title: football_pool_files
+username:
+account: raguilar11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 725523
+bundleId: 1886341
+url: https://raguilar11.shinyapps.io/football_pool_files/
+when: 1550649416.92311
+asMultiple: FALSE
+asStatic: FALSE
